@@ -23,7 +23,7 @@
     "gulp-newer": "^1.4.0",
     "gulp-notify": "^3.2.0",
     "gulp-plumber": "^1.2.1",
-    "gulp-posthtml": "^3.0.4",
+    "gulp-posthtml": "^3.0.5",
     "gulp-rename": "^1.4.0",
     "gulp-sass": "^4.1.0",
     "gulp-sourcemaps": "^2.6.5",
@@ -34,7 +34,7 @@
     "gulp-ttf2woff2": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "imagemin-webp": "^5.1.0",
-    "posthtml-include": "^1.4.3"
+    "posthtml-include": "=1.7.2"
   },
   "dependencies": {
     "imagemin-mozjpeg": "^8.0.0",

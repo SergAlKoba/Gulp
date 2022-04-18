@@ -91,7 +91,8 @@ function compileHTML() {
     .pipe(plumber({
       errorHandler: notify.onError({
         title: "Ошибка в HTML",
-        message: "Error: <%= error.message %>"
+        // message: "Error: <%= error.message %>"
+        message: "Error: <%= error %>"
       })
     }))
     .pipe(posthtml([
