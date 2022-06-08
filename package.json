@@ -34,7 +34,7 @@
     "gulp-ttf2woff2": "^3.0.0",
     "gulp-uglify": "^3.0.2",
     "imagemin-webp": "^5.1.0",
-    "posthtml-include": "=1.7.2"
+    "posthtml-include": "=1.7.4"
   },
   "dependencies": {
     "imagemin-mozjpeg": "^8.0.0",
